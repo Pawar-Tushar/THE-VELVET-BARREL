@@ -3,7 +3,7 @@
 import React from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import ProtectedRoute from "./components/ProtectedRoute";
-import './App.css'
+import 'App.css'
 
 //pages
 import Home from "./pages/Home";
